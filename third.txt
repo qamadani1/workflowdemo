@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+New work for demo
+=======
 development my website on 
 
 in my routine life
+>>>>>>> origin/dev
